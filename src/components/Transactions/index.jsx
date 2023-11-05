@@ -1,4 +1,4 @@
-import css from "./transactions.module.css"
+
 
 export const Th = ({array}) => {
     return (

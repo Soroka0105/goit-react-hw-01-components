@@ -1,4 +1,4 @@
-import css from "./statistics.module.css"
+
 
 export const Statistics = ({elms}) => {
     return (

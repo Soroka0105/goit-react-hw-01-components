@@ -1,4 +1,4 @@
-import css from "./friends.module.css"
+
 
 
 export const Fr = ({arr}) => {
