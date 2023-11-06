@@ -1,0 +1,14 @@
+.transactionhistory{
+    border: solid 1px black;
+    text-align: center;
+    background-color: aqua;
+    color: white;
+}
+.row{
+    border: solid 5px black;
+  
+}
+.table {
+    background-color: gray;
+
+}
