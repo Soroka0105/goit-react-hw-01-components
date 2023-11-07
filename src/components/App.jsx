@@ -27,7 +27,7 @@ export const App = () => {
   avatar={user.avatar}
   stats={user.stats}
 />
-<Statistics elms={data} />
+<Statistics elms={data} title = "Upload stats" />
 <Fr arr ={friends}/>
 
 <Th array={transactions} />
